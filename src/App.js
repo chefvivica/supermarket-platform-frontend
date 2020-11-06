@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Welcome to one-step supermarket!</h1>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQo2rEpJXcNgac92KTGNzf5a2M_7SG_Oe8kew&usqp=CAU"/>
+      <p>testing</p>
     </div>
   );
 }
